@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="likeProgressRed">#ff646c</color>
+    <color name="likeProgressBlue">#65a9f7</color>
+    <color name="likeProgressGreen">#28eaa4</color>
+
+    <color name="likeGray">#cccccc</color>
+</resources>

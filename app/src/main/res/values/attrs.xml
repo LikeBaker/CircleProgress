@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgress">
+        <attr name="circle_width" format="dimension" />
+        <attr name="circle_background_bg" format="color" />
+
+        <attr name="circle_radius" format="dimension" />
+        <attr name="score_textsize" format="dimension" />
+
+    </declare-styleable>
+</resources>
